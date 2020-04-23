@@ -23,7 +23,8 @@ A guide to downloading this project and getting it running on your machine
 3. Download the ```.apk``` and ```.json``` files onto your Android Device or Android Virtual Device
 
 #### Running the app
-1. Once you've downloaded the above files, run the ```app-debug.apk``` file from your device to launch the app and enjoy!
+1. Once you've downloaded the above files, run the ```app-debug.apk``` file from your device. This will install the actual app on your phone
+2. A new app should appear on your phone named usb.places. Run this and enjoy the app!
 
 ## Built with
 usb.places is built with [Android Oreo (8.0)](https://www.android.com/versions/oreo-8-0/ "https://www.android.com/versions/oreo-8-0/")
