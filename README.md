@@ -8,40 +8,20 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What you will need to run this project
 
-* Android Studio Version 3.6.3
-
-  * We suggest using Android Studio Version 3.6.3 to run this project on your local machine
-  * If you **do not** have this version of Android Studio then you can get it from <https://developer.android.com/studio>
-  * **Alternatively**, we have a guide in the setup section of this README for making adjustments to the project to allow you to run it with an older version of Android Studio
-
-* An Android mobile device or Android Virtual Device
-  * If you intend to use an Android Virtual Device. Please read the section in this README about setting up GPS on your Virtual Device
+#### An Android mobile device running Android Oreo (8.0) or later
+* If you intend to use an Android Virtual Device. Please read the section in this README about setting up GPS on your Virtual Device
   
 ### Setup
 A guide to downloading this project and getting it running on your machine
 
 #### If you have Android Studio Version 3.6.3
 1. Download the zip file from our website: https://usbplaces.myportfolio.com/download
-2. Extract the project folder from the .zip
-3. Open the extracted folder with Android studio
-4. Run the 'app' using an emulator or USB debugging
-
-#### If you are running an older version of Android Studio
-1. Download the zip file from our website: https://usbplaces.myportfolio.com/download
-2. Extract the project folder from the .zip
-3. Open the extracted folder with Android studio
-4. Navigate to the build.gradle file at /usbplaces/build.gradle
-5. Change the dependencies classpath (on line 10) to match you current version of Android Studio
-**For example, for Android Studio Version 3.5.3, change the following:**
-```gradle
-classpath 'com.android.tools.build:gradle:3.6.3'
-```
-**To**
-```gradle
-classpath 'com.android.tools.build:gradle:3.5.3'
-```
-6. Sync the project (Android Studio should prompt you to sync the project when you make any change to build.gradle)
-7. Once the sync is complete, run the 'app' using an emulator or USB debugging
+2. Extract all the files from the zip. These should include:
+	1. This README file
+	2. A file called ```app-debug.apk```
+	3. A file called ```output.json```
+3. Download the ```.apk``` and ```.json``` files onto your Android Device or Android Virtual Device
+4. Run ```app-debug.apk``` from your Device will launch the app
 
 #### Setting up your Android Virtual Device
 1. Create your Android Virtual Device running **Android Version 8.0 or later**
