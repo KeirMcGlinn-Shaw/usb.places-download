@@ -27,7 +27,18 @@ A guide to downloading this project and getting it running on your machine
 2. A new app should appear on your phone named usb.places. Run this and enjoy the app!
 
 ## Built with
-usb.places is built with [Android Oreo (8.0)](https://www.android.com/versions/oreo-8-0/ "https://www.android.com/versions/oreo-8-0/")
+
+### Front-end
+[Android Oreo (8.0)]( https://www.android.com/versions/oreo-8-0/ "https://www.android.com/versions/oreo-8-0/" )</br>
+
+### Back-end
+[NodeJS API]( https://nodejs.org/en/about "https://nodejs.org/en/about" )</br>
+[MySQL database]( https://www.mysql.com "https://www.mysql.com" )</br>
+[Google Cloud App Engine]( https://cloud.google.com/appengine "https://cloud.google.com/appengine" )</br>
+
+### Tools
+[Android Studio]( https://developer.android.com/studio "https://developer.android.com/studio" )
+[Gradle]( https://gradle.org "https://gradle.org" )
 
 ## Authors
 * **Keir McGlinn-Shaw** - *Lead front-end developer* - [KeirMcGlinn-Shaw](https://github.com/KeirMcGlinn-Shaw)
