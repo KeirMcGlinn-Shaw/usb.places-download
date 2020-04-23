@@ -3,7 +3,7 @@
 usb.places is a tour app developed for use by prospective students and their guests when visiting the university
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine.
+These instructions will get the usb.places app up and running on your Android Device
 
 ### Prerequisites
 What you will need to run this project
