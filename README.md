@@ -37,7 +37,7 @@ A guide to downloading this project and getting it running on your machine
 [Google Cloud App Engine]( https://cloud.google.com/appengine "https://cloud.google.com/appengine" )</br>
 
 ### Tools
-[Android Studio]( https://developer.android.com/studio "https://developer.android.com/studio" )
+[Android Studio]( https://developer.android.com/studio "https://developer.android.com/studio" )</br>
 [Gradle]( https://gradle.org "https://gradle.org" )
 
 ## Authors
