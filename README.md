@@ -46,7 +46,7 @@ A guide to downloading this project and getting it running on your machine
 * **Karolina Pieskute** - *Senior developer* - [sweetdarkness](https://github.com/sweetdarkness)
 * **Arturs Spaks** - *Developer* - [ArthurShpak](https://github.com/ArthurShpak)
 * **Diana Slepikaite** - *Developer* -
-* **Kian Hudson** - *Developer* - [kian-hudson](https://github.com/kian-hudson)
+* **Kian Hudson** - *Developer and lead documenter* - [kian-hudson](https://github.com/kian-hudson)
 
 
 ## Acknowledgments
