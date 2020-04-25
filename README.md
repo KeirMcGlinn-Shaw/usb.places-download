@@ -1,6 +1,7 @@
 # usb.places
 
 usb.places is a tour app developed for use by prospective students and their guests when visiting the university
+[Visit our website](https://usbplaces.myportfolio.com/download "https://usbplaces.myportfolio.com/download") to see more about this app
 
 ## Getting Started
 These instructions will get the usb.places app up and running on your Android Device
@@ -15,7 +16,7 @@ usb.places was built using [Oreo](https://www.android.com/versions/oreo-8-0/ "ht
 A guide to downloading this project and getting it running on your machine
 
 #### Downloading the app
-1. Download the zip file from our website: https://usbplaces.myportfolio.com/download
+1. Download the zip file from this page (**Note:** you cannot download the zip from the mobile version of the GitHub website)
 2. Extract all the files from the zip. These should include:
 	1. This README file
 	2. A file called ```app-debug.apk```
