@@ -17,14 +17,10 @@ usb.places was built using [Oreo](https://www.android.com/versions/oreo-8-0/ "ht
 A guide to downloading this project and getting it running on your machine
 
 #### Downloading the app
-1. Download the zip file from this page (**Note:** you cannot download the zip from the mobile version of the GitHub website)
-2. Extract all the files from the zip. These should include:
-	1. This README file
-	2. A file called ```app-release.apk```
-3. Download the ```.apk``` file onto your Android Device or Android Virtual Device
+* Download the ```app-release.apk``` file from this page. Either download directly onto your phone or download onto your computer and move the file to you phone afterwards
 
 #### Running the app
-1. Run the ```app-release.apk``` file from your device. This will prompt you to install the actual app on your phone
+1. Run the ```app-release.apk``` file from your Android device. This will prompt you to install the actual app on your phone
 2. A new app should appear on your phone named usb.places. Run this and enjoy the app!
 
 ## Built with
