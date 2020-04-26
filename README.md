@@ -1,6 +1,7 @@
 # usb.places
 
-usb.places is a tour app developed for use by prospective students and their guests when visiting the Newcastle University School of Computing Science</br>
+usb.places is a tour app developed for use by prospective students and their guests when visiting the Newcastle University School of Computing Science
+
 [Visit our website](https://usbplaces.myportfolio.com/download "https://usbplaces.myportfolio.com/download") to see more about this app
 
 ## Getting Started
