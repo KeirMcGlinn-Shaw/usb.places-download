@@ -19,12 +19,11 @@ A guide to downloading this project and getting it running on your machine
 1. Download the zip file from this page (**Note:** you cannot download the zip from the mobile version of the GitHub website)
 2. Extract all the files from the zip. These should include:
 	1. This README file
-	2. A file called ```app-debug.apk```
-	3. A file called ```output.json```
-3. Download the ```.apk``` and ```.json``` files onto your Android Device or Android Virtual Device
+	2. A file called ```app-release.apk```
+3. Download the ```.apk``` file onto your Android Device or Android Virtual Device
 
 #### Running the app
-1. Once you've downloaded the above files, run the ```app-debug.apk``` file from your device. This will install the actual app on your phone
+1. Run the ```app-debug.apk``` file from your device. This will prompt you to install the actual app on your phone
 2. A new app should appear on your phone named usb.places. Run this and enjoy the app!
 
 ## Built with
