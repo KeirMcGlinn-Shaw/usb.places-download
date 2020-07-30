@@ -40,7 +40,7 @@ A guide to downloading this project and getting it running on your machine
 ## Authors
 * **Keir McGlinn-Shaw** - *Lead front-end developer* - [KeirMcGlinn-Shaw](https://github.com/KeirMcGlinn-Shaw)
 * **Piotr Kolodziejski** - *Lead back-end developer* - [Peter019](https://github.com/Peter019)
-* **Karolina Pieskute** - *Senior developer* - [sweetdarkness](https://github.com/sweetdarkness)
+* **Karolina Pieskute** - *Senior developer* - [kpiesk](https://github.com/kpiesk)
 * **Arturs Spaks** - *Developer* - [ArthurShpak](https://github.com/ArthurShpak)
 * **Diana Slepikaite** - *Developer* -
 * **Kian Hudson** - *Developer and lead documenter* - [kian-hudson](https://github.com/kian-hudson)
